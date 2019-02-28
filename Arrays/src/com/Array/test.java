@@ -8,7 +8,6 @@ public class test
 		
 		System.out.println("Hi Hello World");
 		System.out.println("Hi Im started");
-		System.out.println("Im training");
 	}
 
 }
