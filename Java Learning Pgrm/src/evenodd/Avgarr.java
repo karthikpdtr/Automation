@@ -33,8 +33,6 @@ public class Avgarr
 		     double average=total/arr.length;
 
 		     System.out.println("The average of numbers is :"+average);
-		     
-		     
 
 
 	}
